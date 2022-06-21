@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\First_prg\NumberFormat\bin\Debug\net6.0\NumberFormat.exe
+C:\Users\min\source\repos\First_prg\NumberFormat\bin\Debug\net6.0\NumberFormat.deps.json
+C:\Users\min\source\repos\First_prg\NumberFormat\bin\Debug\net6.0\NumberFormat.runtimeconfig.json
+C:\Users\min\source\repos\First_prg\NumberFormat\bin\Debug\net6.0\NumberFormat.dll
+C:\Users\min\source\repos\First_prg\NumberFormat\bin\Debug\net6.0\NumberFormat.pdb
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.AssemblyInfo.cs
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.dll
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\refint\NumberFormat.dll
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.pdb
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\NumberFormat.genruntimeconfig.cache
+C:\Users\min\source\repos\First_prg\NumberFormat\obj\Debug\net6.0\ref\NumberFormat.dll

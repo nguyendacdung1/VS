@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\First_prg\ReferanceType\bin\Debug\net6.0\ReferenceType.exe
+C:\Users\min\source\repos\First_prg\ReferanceType\bin\Debug\net6.0\ReferenceType.deps.json
+C:\Users\min\source\repos\First_prg\ReferanceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+C:\Users\min\source\repos\First_prg\ReferanceType\bin\Debug\net6.0\ReferenceType.dll
+C:\Users\min\source\repos\First_prg\ReferanceType\bin\Debug\net6.0\ReferenceType.pdb
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.dll
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\refint\ReferenceType.dll
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.pdb
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+C:\Users\min\source\repos\First_prg\ReferanceType\obj\Debug\net6.0\ref\ReferenceType.dll

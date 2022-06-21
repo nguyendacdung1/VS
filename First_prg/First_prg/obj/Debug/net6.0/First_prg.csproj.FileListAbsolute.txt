@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\First_prg\First_prg\bin\Debug\net6.0\First_prg.exe
+C:\Users\min\source\repos\First_prg\First_prg\bin\Debug\net6.0\First_prg.deps.json
+C:\Users\min\source\repos\First_prg\First_prg\bin\Debug\net6.0\First_prg.runtimeconfig.json
+C:\Users\min\source\repos\First_prg\First_prg\bin\Debug\net6.0\First_prg.dll
+C:\Users\min\source\repos\First_prg\First_prg\bin\Debug\net6.0\First_prg.pdb
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.AssemblyInfo.cs
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.dll
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\refint\First_prg.dll
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.pdb
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\First_prg.genruntimeconfig.cache
+C:\Users\min\source\repos\First_prg\First_prg\obj\Debug\net6.0\ref\First_prg.dll
