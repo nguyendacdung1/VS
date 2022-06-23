@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\SS4\SS4\bin\Debug\net6.0\SS4.exe
+C:\Users\min\source\repos\SS4\SS4\bin\Debug\net6.0\SS4.deps.json
+C:\Users\min\source\repos\SS4\SS4\bin\Debug\net6.0\SS4.runtimeconfig.json
+C:\Users\min\source\repos\SS4\SS4\bin\Debug\net6.0\SS4.dll
+C:\Users\min\source\repos\SS4\SS4\bin\Debug\net6.0\SS4.pdb
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.AssemblyInfo.cs
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.dll
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\refint\SS4.dll
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.pdb
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\SS4.genruntimeconfig.cache
+C:\Users\min\source\repos\SS4\SS4\obj\Debug\net6.0\ref\SS4.dll
