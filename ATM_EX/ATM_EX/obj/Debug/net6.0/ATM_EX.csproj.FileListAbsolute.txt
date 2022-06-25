@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\ATM_EX\ATM_EX\bin\Debug\net6.0\ATM_EX.exe
+C:\Users\min\source\repos\ATM_EX\ATM_EX\bin\Debug\net6.0\ATM_EX.deps.json
+C:\Users\min\source\repos\ATM_EX\ATM_EX\bin\Debug\net6.0\ATM_EX.runtimeconfig.json
+C:\Users\min\source\repos\ATM_EX\ATM_EX\bin\Debug\net6.0\ATM_EX.dll
+C:\Users\min\source\repos\ATM_EX\ATM_EX\bin\Debug\net6.0\ATM_EX.pdb
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.AssemblyInfo.cs
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.dll
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\refint\ATM_EX.dll
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.pdb
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ATM_EX.genruntimeconfig.cache
+C:\Users\min\source\repos\ATM_EX\ATM_EX\obj\Debug\net6.0\ref\ATM_EX.dll
