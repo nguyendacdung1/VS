@@ -1,0 +1,15 @@
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\bin\Debug\net6.0\Thi_thuchanh.exe
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\bin\Debug\net6.0\Thi_thuchanh.deps.json
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\bin\Debug\net6.0\Thi_thuchanh.runtimeconfig.json
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\bin\Debug\net6.0\Thi_thuchanh.dll
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\bin\Debug\net6.0\Thi_thuchanh.pdb
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.csproj.AssemblyReference.cache
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.AssemblyInfoInputs.cache
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.AssemblyInfo.cs
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.csproj.CoreCompileInputs.cache
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.dll
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\refint\Thi_thuchanh.dll
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.pdb
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\Thi_thuchanh.genruntimeconfig.cache
+C:\Users\min\source\repos\Thi_thuchanh\Thi_thuchanh\obj\Debug\net6.0\ref\Thi_thuchanh.dll
